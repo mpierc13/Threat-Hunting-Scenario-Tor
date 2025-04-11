@@ -73,9 +73,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Marcel Pierce
+- **Author Contact**: www.linkedin.com/in/marcel-pierce-1a49b52a5
+- **Date**: April 9, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -87,9 +87,4 @@ DeviceFileEvents
 ## Additional Notes:
 - **None**
 
----
-
-## Revision History:
-| **Version** | **Changes**                   | **Date**         | **Modified By**   |
-|-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+--- 
